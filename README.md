@@ -60,10 +60,7 @@ streamlit run app.py
 -   Habitat Suitability Analysis
 -   Ecological Research
 
-## Authors
 
--   K. Srujan
--   Ayush Choudhary
 
 ## License
 

@@ -1,0 +1,19 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor noise
+.vscode/
+.DS_Store
+Thumbs.db
